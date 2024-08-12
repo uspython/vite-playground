@@ -12,17 +12,20 @@ This is a React application built with Vite, TypeScript, and Material-UI (MUI).
 ## Getting Started
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/uspython/vite-playground.git
    ```
 
 2. Install dependencies:
+
    ```
    cd my-react-mui-app
    npm install
    ```
 
 3. Run the development server:
+
    ```
    npm run dev
    ```
